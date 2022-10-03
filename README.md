@@ -23,5 +23,8 @@
   ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
   ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 </h2>
-  
+<div align="center">
 
+[![Readme Card 2](https://github-readme-stats.vercel.app/api/pin/?username=maax103&repo=snake-react-js)](https://github.com/maax103/snake-react-js)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=maax103&repo=scicalculator)](https://github.com/maax103/scicalculator)
+</div>
