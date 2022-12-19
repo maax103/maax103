@@ -1,6 +1,6 @@
 <h2 align="center"> Olá, eu sou o Max</h2>
 
-<p align="center">Adoro desenvolver projetos próprios e estou aberto à propostas de desenvolvedor (tanto front, quanto back ou fullstack)</p>
+<p align="center">Adoro desenvolver projetos próprios e estou aberto à propostas de trabalho</p>
 
 <h2 align="center">Minhas Stacks</h2>
 <h2 align="center">
