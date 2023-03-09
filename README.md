@@ -1,6 +1,6 @@
-<h2 align="center"> Olá, eu sou o Max</h2>
+<h2 align="center"> Seja bem vindo</h2>
 
-<p align="center">Adoro desenvolver projetos próprios e estou aberto à propostas de trabalho</p>
+<p align="center">Meu nome é Max e adoro desenvolver projetos próprios.</p>
 
 <h2 align="center">Minhas Stacks</h2>
 <h2 align="center">
