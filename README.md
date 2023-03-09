@@ -1,8 +1,6 @@
-<h2 align="center"> Seja bem vindo</h2>
 
-<p align="center">Meu nome é Max e adoro desenvolver projetos próprios.</p>
 
-<h2 align="center">Minhas Stacks</h2>
+<h2 align="center">Algumas tecnologias que domino</h2>
 <h2 align="center">
   
   ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
